@@ -19,6 +19,7 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
+/*Makes "SEO" in Horiseon logo stand out as different color*/
 .seo {
     color: #d9dcd6;
 }
@@ -27,6 +28,10 @@ h1 {
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+footer h2 {
+    font-size: 20px;
 }
 
 h3 {
@@ -59,13 +64,13 @@ header li {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*Banner is main large image below header, above sections and side bar*/
 .banner {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
 }
-
+/*make article images flip-flop sides with float-left & right*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -76,12 +81,14 @@ header li {
     margin-left: 25px;
 }
 
+/*Section includes main articles*/
 section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*side block with benefits list*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -123,8 +130,4 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     width: 100%;
-}
-
-footer h2 {
-    font-size: 20px;
 }
