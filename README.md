@@ -2,7 +2,7 @@
 
 This web page displays some of the areas of expertise and benefits associated with Horiseon.
 
-Visit Website here: www.jhdavey.github.io/horiseonrefactor
+Visit Website here: jhdavey.github.io/horiseonrefactor
 ## Description
 
 This is a simple webpage with navigation menu at the top, an image banner, a section with 3 specific areas of expertise, and a benefits list. You can click the links in the navigation menu to jump to the specified sections. 
