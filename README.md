@@ -1,31 +1,40 @@
-# Code Refactor Starter Code
+# Horiseon Digital Marketing Web Page
 
-# User Story
-AS A marketing agency
+This web page displays some of the areas of expertise and benefits associated with Horiseon.
 
-I WANT a codebase that follows accessibility standards
+## Description
 
-SO THAT our own site is optimized for search engines
+This is a simple webpage with navigation menu at the top, an image banner, a section with 3 specific areas of expertise, and a benefits list. You can click the links in the navigation menu to jump to the specified sections. 
 
-# Acceptance Criteria
-GIVEN a webpage meets accessibility standards
+Your page should be displayed as follows:
 
-X WHEN I view the source code
+![Horiseon Webpage Screenshot](assets/images/horiseonscreenshot.png)
 
-X THEN I find semantic HTML elements
+## Help
 
-X WHEN I view the structure of the HTML elements
+If any issues arise while viewing this webpage please contact Harley Davey (See below for contact info)
 
-X THEN I find that the elements follow a logical structure independent of styling and positioning
+## Authors
 
-X WHEN I view the image elements
+*Initial Development and Deployment:*
 
-X THEN I find accessible alt attributes
+ Horiseon Social Solution Services, Inc
 
-X WHEN I view the heading attributes
+*Most recent updates:*
 
-X THEN they fall in sequential order
+Harley Davey
 
-X WHEN I view the title element
+jhdavey.github.io
 
-X THEN I find a concise, descriptive title
+## Version History
+* 2.0
+    * Various bug fixes and optimizations
+    * Updated index.html, and css.style for improved assessibility, organization, and simplified styling.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Original design and development Horiseon Social Solution Services, Inc
